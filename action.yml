@@ -1,5 +1,5 @@
 name: "Auto Push Actions"
-description: "Action for synchronizing a git branch to another location (Bitbucket, GitHub, GitLab, etc.) using SSH."
+description: "SSH Auto Push Actions"
 branding:
   icon: "copy"
   color: "blue"
